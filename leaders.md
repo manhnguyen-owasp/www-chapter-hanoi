@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Toan Nguyen](mailto:toan.nguyen@owasp.org)
+* [Manh Nguyen](mailto:manh nguyen@owasp.org)
