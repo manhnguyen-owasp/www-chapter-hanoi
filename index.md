@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Hanio
+title: OWASP Hanoi
 tags: example-tag
 region: Asia
 meetup-group:
